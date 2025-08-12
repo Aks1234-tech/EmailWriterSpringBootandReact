@@ -51,17 +51,6 @@ Add:
 gemini.api.key=YOUR_GEMINI_API_KEY
 ```
 
-### 2. Frontend (React + Vite)
-In `email-writer-react/` create a file named `.env`:
-```env
-VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-
-### 3. Chrome Extension
-In `email-writer-extension/` create a file named `.env`:
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
 
 ---
 
